@@ -1,0 +1,27 @@
+:root{
+  --purple: hsl(239, 92%, 75%);
+  --purple-dark: hsl(239, 53%, 59%);
+  --blue: hsl(203, 69%, 59%);
+  --blue-dark: hsl(202, 68%, 37%);
+  --green: hsl(125, 79%, 36%);
+  --black: hsl(0, 0%, 0%);
+  --gray700: hsl(0, 0%, 5%);
+  --gray600: hsl(0, 0%, 10%);
+  --gray500:hsl(0, 0%, 15%);
+  --gray400: hsl(0, 0%, 20%);
+  --gray300: hsl(0, 0%, 50%);
+  --gray200: hsl(0, 0%, 85%);
+  --white:  hsl(0, 0%, 95%);
+  --danger: hsl(0, 70%, 62%);
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Poppins";
+}
